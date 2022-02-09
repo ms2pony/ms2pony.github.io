@@ -1,8 +1,8 @@
 # Header
 menu:
   首页: /
-  前端: /categories/front-end
-  后端: /categories/back-end
+  操作记录: /categories/operate
+  随笔: /categories/essay
   标签: /tags
   归档: /archives
   订阅: /atom.xml
